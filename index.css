@@ -1,0 +1,16 @@
+.nav-wrapper {
+background-color: yellowgreen;
+padding: 30px;
+list-style-type: none;
+}
+
+.nav-wrapper li {
+  display: inline;
+  padding: 80px;
+  margin: 80px;
+}
+
+.nav-wrapper ul {
+  text-decoration: none;
+  padding: 0px;
+}
